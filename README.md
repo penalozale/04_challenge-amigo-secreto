@@ -8,7 +8,6 @@ El desafío es desarrollar una aplicación web que permita a los usuarios ingres
 El usuario deberá agregar nombres mediante un campo de texto y el botón "Añadir". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
 # Para probar la aplicación sigue estos pasos:
-## Pasos para probar la aplicación
 
 1. **Clonar el repo:**
    - Abrí una terminal o línea de comandos.
