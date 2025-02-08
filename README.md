@@ -14,23 +14,20 @@ El usuario deberá agregar nombres mediante un campo de texto y el botón "Añad
    - Abrí una terminal o línea de comandos.
    - Cloná el repo con este comando:
      ```bash
-     git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+     git clone https://github.com/penalozale/04_challenge-amigo-secreto
      ```
    - Andá al directorio del proyecto:
      ```bash
-     cd nombre-del-repositorio
+     cd 04_challenge-amigo-secreto
      ```
 
-2. **Abrí el archivo index.html:**
+2. **Abrí el archivo index.html y usá la app:**
    - Podés abrir el archivo index.html en tu navegador de estas maneras:
      - Doble clic en el archivo index.html en el explorador de archivos.
-     - Arrastrá el archivo index.html y soltalo en una ventana abierta de tu navegador.
      - Desde la línea de comandos:
        ```bash
        start index.html
        ```
-
-3. **Usá la app:**
    - En la página, vas a encontrar un campo de texto para ingresar nombres de amigos.
    - Escribí un nombre en el campo y presioná "Enter" o hacé clic en "Añadir".
    - Los nombres que ingreses se van a mostrar en una lista.
@@ -38,6 +35,6 @@ El usuario deberá agregar nombres mediante un campo de texto y el botón "Añad
    - El nombre del "amigo secreto" aparecerá en la pantalla.
 
 ## Notas adicionales
-- El proyecto está hecho con HTML, CSS y JavaScript puro, así que no necesitás instalar nada más.
+- El proyecto está hecho con HTML, CSS y JavaScript
 
 ¡Espero que disfrutes probando la app y te diviertas con el sorteo del amigo secreto!
