@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge Amigo Secreto</h1>
+<h1 align="center"> Challenge Amigo Secreto -- ONE</h1>
 
 ## Introducción
 ¡Hola! Soy un principiante en JavaScript y este es mi primer proyecto. 
