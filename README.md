@@ -1,6 +1,7 @@
-TAREA: 
-crea un README para tu proyecto de "Amigo Secreto" detallando sus funcionalidades, incluyendo capturas de pantalla o videos que muestren cómo agregar nombres y realizar el sorteo. 
+<h1 align="center"> Challenge Amigo Secreto</h1>
 
-PROYECTO: "Amigo Secreto"
+# Introducción
+El desafío es desarrollar una aplicación web que permita a los usuarios ingresar varios nombres de amigos para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-Objetivo: Crear una aplicación que permita a los usuarios agregar nombres de sus amigos, y luego adivinar quien es el amigo secreto.
+# Descripción de la aplicación
+El usuario deberá agregar nombres mediante un campo de texto y el botón "Añadir". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
