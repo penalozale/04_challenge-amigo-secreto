@@ -1,7 +1,9 @@
 <h1 align="center"> Challenge Amigo Secreto</h1>
+<h2 align="center"> Oracle Next Education </h2>
 
 # Introducción
 ¡Hola! Soy un principiante en JavaScript y este es mi primer proyecto. 
+Estoy aprendiendo con ayuda del curso de **Oracle Next Education**
 El desafío es desarrollar una aplicación web que permita a los usuarios ingresar varios nombres de amigos para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 # Descripción de la aplicación
